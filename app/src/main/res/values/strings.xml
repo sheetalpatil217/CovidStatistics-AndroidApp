@@ -2,7 +2,6 @@
     <string name="app_name">Covid-19Tracker</string>
     <string name="title_dashboard">Statistics</string>
     <string name="title_notifications">Notifications</string>
-    <string name="google_maps_key">AIzaSyAGEQbvhV7tRrfP6bJs6_Xw6lZnbz17OwA</string>
     <string name="MapView">World View</string>
     <string name="mySubMapTitle">Map View</string>
     <string name="selectCountryText">"Select Country "</string>
