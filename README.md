@@ -11,6 +11,7 @@ Java Android
 
 ###### World View: 
 Shows the markers pinned to the country with total number of cases.
+![](gitimages/WorldView.PNG)
 ![logo](https://github.com/sheetalpatil217/CovidStatistics-AndroidApp/gitimages/WorldView.PNG)
 ![logo](https://github.com/sheetalpatil217/CovidStatistics-AndroidApp/gitimages/TotalCases.PNG)
 
