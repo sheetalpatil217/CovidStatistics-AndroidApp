@@ -12,13 +12,13 @@ Java Android
 ###### World View: 
 Shows the markers pinned to the country with total number of cases.
 
-![GitHub Logo](/images/WorldView.PNG)
+![GitHub Logo](/images/WorldView.PNG =250x250)
 
-![GitHub Logo](/images/TestCase.PNG)
+![GitHub Logo](/images/TestCase.png =250x250)
 
 
 
 ###### Statistics: 
 Shows the dropdown with country name upon selection can view the cases in pie chart format.
 
-![GitHub Logo](/images/PieChart.PNG)
+![GitHub Logo](/images/PieChart.PNG =250x250)
