@@ -12,11 +12,9 @@ Java Android
 ###### World View: 
 Shows the markers pinned to the country with total number of cases.
 ![GitHub Logo](/images/WorldView.PNG)
-![logo](gitimages/WorldView.PNG)
-![logo](https://github.com/sheetalpatil217/CovidStatistics-AndroidApp/gitimages/WorldView.PNG)
-![logo](https://github.com/sheetalpatil217/CovidStatistics-AndroidApp/gitimages/TotalCases.PNG)
+
 
 
 ###### Statistics: 
 Shows the dropdown with country name upon selection can view the cases in pie chart format
-![logo](https://github.com/sheetalpatil217/CovidStatistics-AndroidApp/gitimages/PieChart.PNG)
+
