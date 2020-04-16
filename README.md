@@ -12,7 +12,9 @@ Java Android
 ###### World View: 
 Shows the markers pinned to the country with total number of cases.
 
-![](/images/WorldView.PNG =250x)
+![](/images/WorldView.PNG){:height="36px" width="36px"}
+
+<img src="/images/WorldView.PNG" width="100" height="100">
 
 ![](/images/TestCase.png =250x)
 
