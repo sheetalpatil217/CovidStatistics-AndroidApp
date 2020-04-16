@@ -19,3 +19,4 @@ Shows the markers pinned to the country with total number of cases.
 Shows the dropdown with country name upon selection can view the cases in pie chart format.
 
 <img src="/images/PieChart.PNG" width="180" height="300">
+
